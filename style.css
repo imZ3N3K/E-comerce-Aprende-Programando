@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(240, 240, 240); 
+  }
+  
+  header h1 {
+    font-size: 1.5rem;
+  }
+  
+  .card img {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  footer a:hover {
+    color: #17a2b8;
+  }
+  .carousel {
+    max-width: 50px; /* Limita el ancho del carousel */
+    margin: 0 auto; /* Centra el carousel horizontalmente */
+  }
+  
+  
+  
